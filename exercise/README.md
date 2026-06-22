@@ -19,8 +19,7 @@ Let's start with some basic query selection tasks.
 
 ### Part 1
 
-The cafe's title is a bit too long. Select the `#main-title` id element and change the text to “Welcome to the Cozy Cafe”.  Let's also improve our page's appearance by changing the `text-align` to `center` on the title as well.
-
+The cafe's title is a bit too long. Select the `#main-title` id element and change the text to “Welcome to the Cozy Cafe”.
 
 ### Part 2
 
